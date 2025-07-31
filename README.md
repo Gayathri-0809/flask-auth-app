@@ -1,14 +1,42 @@
-# Flask Auth App
+# 🔐 Flask Authentication App
 
-A basic authentication web app using Flask. Includes registration, login, session handling, and hashed passwords.
+A simple and secure **user authentication system** built with **Flask**.  
+It supports user **registration, login, logout**, and password hashing.
 
-## Features
-- Register/Login with hashed passwords
-- Session management using Flask
-- Simple HTML forms with secure practices
+---
 
-## Run Locally
+## ✨ Features
+
+- 📝 User Registration with form validation  
+- 🔐 Secure Login & Logout using Flask-Login  
+- 🔒 Password hashing with **Werkzeug**  
+- ✅ Session management  
+- 📦 Clean project structure (easy to expand)
+
+---
+
+## 📸 Screenshots
+
+> *Add screenshots of your login/register pages here to make it visual!*
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Used For |
+|------------|----------|
+| Python 🐍  | Core backend logic |
+| Flask ⚙️   | Web framework |
+| HTML/CSS 🎨 | UI rendering |
+| SQLite 📁  | Lightweight database |
+| Flask-Login 🔐 | Session handling |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
 ```bash
-pip install flask
-python app.py
-```
+git clone https://github.com/Gayathri-0809/flask-auth-app.git
+cd flask-auth-app
