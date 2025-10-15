@@ -15,12 +15,6 @@ It supports user **registration, login, logout**, and password hashing.
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots of your login/register pages here to make it visual!*
-
----
-
 ## 🛠 Tech Stack
 
 | Technology | Used For |
